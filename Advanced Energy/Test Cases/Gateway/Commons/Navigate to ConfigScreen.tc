@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>edgeUI</name>
+   <name>Navigate to ConfigScreen</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>cff8509a-8d92-4914-b86f-e4ad80570225</testCaseGuid>
+   <testCaseGuid>b50ed795-6082-4ceb-9692-2631f55de66f</testCaseGuid>
 </TestCaseEntity>
