@@ -3,9 +3,6 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
-
-import javax.xml.bind.annotation.XmlElementDecl.GLOBAL
-
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
@@ -17,31 +14,7 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-
-import groovy.json.StringEscapeUtils
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//Open Browser & Maximize window
-WebUI.openBrowser(GlobalVariable.Url)
-WebUI.maximizeWindow()
-
-//Verify login page opens
-WebUI.verifyEqual(WebUI.getWindowTitle(), "Login - PowerInsight")
-
-
-//Input Valid Data and Click on Login
-String userName = 'Object Repository/Login Page/fieldUsername'
-String password = 'Object Repository/Login Page/fieldPassword'
-String login = 'Object Repository/Login Page/btnLogin'
-
-WebUI.sendKeys(findTestObject(userName), GlobalVariable.userName)
-WebUI.sendKeys(findTestObject(password), GlobalVariable.password)
-WebUI.click(findTestObject(login))
-
-//Verify user Loggedin Successfully
-
-String logoutBtn= 'Object Repository/EdgeUI/Sidebar Buttons/btnLogout'
-WebUI.verifyElementVisible(findTestObject(logoutBtn))
-WebUI.verifyEqual(WebUI.getUrl(), GlobalVariable.Url+'edgeui/dashboard')
-
+String menuIcon = 'Object Repository/loginPage/btnLogin'
