@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>gateway_configurationScreen</name>
+   <name>Get Stats Values</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>1f429da5-0b24-4642-945b-051de643cef1</testCaseGuid>
+   <testCaseGuid>55d52dc2-6edf-4469-892e-4a0bc825a401</testCaseGuid>
 </TestCaseEntity>

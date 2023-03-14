@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RAM_Tile</name>
+   <tag></tag>
+   <elementGuidId>42b2f2df-f009-4e1c-af4f-53b6131051f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#availableRAM > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>0c165b56-2d5e-4336-99df-53fdbda90134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>4aa7e5d9-92d5-4c20-bdff-22ee1a6bedb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>version</name>
+      <type>Main</type>
+      <value>1.1</value>
+      <webElementGuid>04af55a9-2473-4c32-857a-957312b5448e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>3126c233-b87d-4b7c-ae3c-9fdde0e1a956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>782f505b-e029-468c-aa2a-00c75a302f99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>1eaf259d-6344-4cf7-8f94-3f0588ecd191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 200 150</value>
+      <webElementGuid>2c7514e6-a7d6-422f-9b71-f437cd7634af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>preserveAspectRatio</name>
+      <type>Main</type>
+      <value>xMidYMid meet</value>
+      <webElementGuid>ce02b491-08f3-453e-8f24-d611794f1720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Created with Raphaël 2.1.4RAM2.0GB Used07.95</value>
+      <webElementGuid>c8970028-0807-4f8f-a3e1-215e4f17d2af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;availableRAM&quot;)/svg[1]</value>
+      <webElementGuid>129a3e55-c464-4359-877a-c4abd49090ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>59fc1d61-68d0-404f-98bb-60b5cf20cb0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CPU'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>af26e465-28df-4273-9166-b4d7c631d7a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = 'Created with Raphaël 2.1.4RAM2.0GB Used07.95' or . = 'Created with Raphaël 2.1.4RAM2.0GB Used07.95')]</value>
+      <webElementGuid>580021b1-9ad2-4bac-bf62-e521dfd96923</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

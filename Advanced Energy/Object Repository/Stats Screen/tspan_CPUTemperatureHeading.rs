@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tspan_CPUTemperatureHeading</name>
+   <tag></tag>
+   <elementGuidId>0af36c4b-4759-445c-8d26-03c770557c58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#temperatureCount > svg > text > tspan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='temperatureCount']//*[name()='svg']//*[local-name()='tspan'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tspan</value>
+      <webElementGuid>efebb6c4-c00b-474b-af3c-30b104956f02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dy</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>8b7f1ab3-a2dc-4ad6-8d80-1b5192ff9b9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CPU temperature</value>
+      <webElementGuid>3cf39460-e7df-4273-8474-2c4a6e0e83b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;temperatureCount&quot;)/svg[1]/text[1]/tspan[1]</value>
+      <webElementGuid>a6074e69-f693-42b3-85fb-42594c8ec385</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(//div[@id='temperatureCount']//*[name()='svg']//*[local-name()='tspan'])[1]</value>
+      <webElementGuid>ed1c7285-6420-4fda-a6db-6152c96f7730</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

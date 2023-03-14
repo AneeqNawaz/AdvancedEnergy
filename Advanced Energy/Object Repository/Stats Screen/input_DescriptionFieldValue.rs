@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_DescriptionFieldValue</name>
+   <tag></tag>
+   <elementGuidId>96a55f80-eb8d-4758-8715-909a8b50ee01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.status-info.descriptionbox.ng-pristine.ng-valid.ng-touched</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b39de1d2-c853-45ce-a5c8-7b7972ac94a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>4868e8b3-05ca-43f7-aa0a-21abef06b289</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>status-info descriptionbox ng-pristine ng-valid ng-touched</value>
+      <webElementGuid>ba2b6cc0-5e7b-41b8-ae68-b809012233ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;main-content&quot;]/div[@class=&quot;.container-fluid&quot;]/app-stats[1]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;btn-row&quot;]/div[@class=&quot;flex-row&quot;]/input[@class=&quot;status-info descriptionbox ng-pristine ng-valid ng-touched&quot;]</value>
+      <webElementGuid>af857b89-ad4b-4380-b66a-39142444996c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>d62a77ec-51a6-415e-9226-10f1eec19fa8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

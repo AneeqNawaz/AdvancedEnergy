@@ -17,13 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//precondition
-WebUI.callTestCase(findTestCase('Test Cases/Login/Commons/ValidLogin'), null)
-
-// Navigation
-WebUI.callTestCase(findTestCase('Test Cases/Gateway/Commons/Navigate to configScreen'), null)
-
-//Verify table exist
-String deleteAction = 'Object Repository/Gateway-Configuration/delete-action'
-WebUI.verifyElementVisible(findTestObject(deleteAction))
-

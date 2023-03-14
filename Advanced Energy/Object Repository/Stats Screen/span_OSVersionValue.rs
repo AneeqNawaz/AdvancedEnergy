@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_OSVersionValue</name>
+   <tag></tag>
+   <elementGuidId>4921023b-1858-4bd7-a939-26214629e19c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='OS Version'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0514b08e-147c-4f9f-92a0-555007181014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>status-info</value>
+      <webElementGuid>185f6c2c-3db8-4832-a6f6-5619d239d413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ubuntu 18.04 LTS</value>
+      <webElementGuid>afd7476a-981f-4ec8-b0d0-43edfc9ef950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;main-content&quot;]/div[@class=&quot;.container-fluid&quot;]/app-stats[1]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;status-header&quot;]/ul[1]/li[2]/span[@class=&quot;status-info&quot;]</value>
+      <webElementGuid>f5bcb833-a87b-4a74-ace3-3de2f30de9f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OS Version'])[1]/following::span[1]</value>
+      <webElementGuid>f65fc7d0-ffe3-438e-8a21-504b656e28ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App Version'])[1]/preceding::span[1]</value>
+      <webElementGuid>b6d12301-d8dc-447a-b5f1-21e8cdc485ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ubuntu 18.04 LTS']/parent::*</value>
+      <webElementGuid>aff2f8ba-b22d-4f4b-ae44-d7510b33fbed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-stats/div/div/ul/li[2]/span</value>
+      <webElementGuid>36605efa-e5cc-4329-a007-4f431b006e82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ubuntu 18.04 LTS' or . = 'Ubuntu 18.04 LTS')]</value>
+      <webElementGuid>0d9a3552-25fa-4bac-b9ac-1e946580ab1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_OSVersion</name>
+   <tag></tag>
+   <elementGuidId>39f65fb3-9e28-4a33-9344-af9298f7a1e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Restarted'])[1]/following::strong[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>5bec4fc6-4ed2-48b2-add5-f8bacf28ac99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OS Version</value>
+      <webElementGuid>f9368390-6ff6-4895-8608-24f99f027e16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;main-content&quot;]/div[@class=&quot;.container-fluid&quot;]/app-stats[1]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;status-header&quot;]/ul[1]/li[2]/strong[1]</value>
+      <webElementGuid>578ba506-893e-496f-9ed0-020e3bcba224</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Restarted'])[1]/following::strong[1]</value>
+      <webElementGuid>f0e6a006-79cb-4a9a-ae58-d309d0fca556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubuntu 18.04 LTS'])[1]/preceding::strong[1]</value>
+      <webElementGuid>b364759a-0395-4e71-8a3a-5c5a839a15b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OS Version']/parent::*</value>
+      <webElementGuid>3f606840-56b8-421a-90e2-57fda57a3a07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/strong</value>
+      <webElementGuid>c02a6fba-930b-4eaf-a7a4-c367b29dc113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'OS Version' or . = 'OS Version')]</value>
+      <webElementGuid>10e7495e-d345-473d-8b3d-49e60f34397d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

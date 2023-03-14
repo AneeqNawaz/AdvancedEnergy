@@ -19,4 +19,9 @@
       <initValue>'pi314'</initValue>
       <name>password</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>SerialNumber</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

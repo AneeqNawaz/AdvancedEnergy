@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Description</name>
+   <tag></tag>
+   <elementGuidId>95fe73b4-1eab-4108-a62d-f4648c0734aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex-row > strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Serial Number'])[1]/following::strong[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>b9bf04fd-370a-47dd-9e6e-e3f55565e545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Description</value>
+      <webElementGuid>c43a2bec-857d-422e-a060-7c0417378416</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;main-content&quot;]/div[@class=&quot;.container-fluid&quot;]/app-stats[1]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;btn-row&quot;]/div[@class=&quot;flex-row&quot;]/strong[1]</value>
+      <webElementGuid>3882ae5b-1df0-44db-8abd-5f652f29b1c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Serial Number'])[1]/following::strong[1]</value>
+      <webElementGuid>f20a3beb-769a-409b-8522-7c1dc69b1c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Raphaël 2.1.4'])[1]/preceding::strong[1]</value>
+      <webElementGuid>f1ef797b-a8d4-4799-99fe-cd9a5db5dfee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CPU'])[1]/preceding::strong[1]</value>
+      <webElementGuid>7c5e2761-1150-4dca-a422-b5d817ec5938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Description']/parent::*</value>
+      <webElementGuid>bfaa0e3d-4b64-419c-84ab-01f2d804c675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/strong</value>
+      <webElementGuid>adb8f534-41ef-4f7d-afc7-a116c6b9d860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Description' or . = 'Description')]</value>
+      <webElementGuid>40d41cae-140c-4338-9630-a0adcb0217e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

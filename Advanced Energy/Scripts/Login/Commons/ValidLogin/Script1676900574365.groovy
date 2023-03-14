@@ -3,6 +3,7 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import javax.xml.bind.annotation.XmlElementDecl.GLOBAL as GLOBAL
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
@@ -14,16 +15,28 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import groovy.json.StringEscapeUtils as StringEscapeUtils
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//precondition
-WebUI.callTestCase(findTestCase('Test Cases/Login/Commons/ValidLogin'), null)
+//****PRECONDITIONS****
+WebUI.callTestCase(findTestCase('Test Cases/Browser/Open Browser'), null)
 
-// Navigation
-WebUI.callTestCase(findTestCase('Test Cases/Gateway/Commons/Navigate to configScreen'), null)
+//Verify login page opens
+WebUI.verifyEqual(WebUI.getWindowTitle(), 'Login - PowerInsight', FailureHandling.STOP_ON_FAILURE)
 
-//Verify table exist
-String deleteAction = 'Object Repository/Gateway-Configuration/delete-action'
-WebUI.verifyElementVisible(findTestObject(deleteAction))
+WebUI.callTestCase(findTestCase('Test Cases/Login/Functional TestCases/Verify fields are Mandatory'), null, FailureHandling.CONTINUE_ON_FAILURE)
+//Input Valid Data and Click on Login
+String userName = 'Object Repository/Login Page/fieldUsername'
+String password = 'Object Repository/Login Page/fieldPassword'
+
+WebUI.sendKeys(findTestObject(userName), GlobalVariable.userName)
+WebUI.sendKeys(findTestObject(password), GlobalVariable.password)
+
+WebUI.callTestCase(findTestCase('Test Cases/Login/Lookups/Click on Login Button'), null)
+
+//****POSTCONDITIONS****
+//WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
+//WebUI.callTestCase(findTestCase('Test Cases/Login/Functional TestCases/Verify User Logged-in Successfully'), null)
+//WebUI.callTestCase(findTestCase('Test Cases/EdgeUI/Funtional TestCases/Stats/Verify Stats Screen'), null)
 

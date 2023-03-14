@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_AppVersionValue</name>
+   <tag></tag>
+   <elementGuidId>d6f4c8f7-3d69-40aa-ad0e-d7ef79e68c48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='App Version'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1ff95715-e2ae-486c-96a1-4401a92db8b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>status-info</value>
+      <webElementGuid>618e7c24-4a64-4f1f-b33c-a03ef62397c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>v2.4.1 (build: 403101b_13022023)</value>
+      <webElementGuid>b85cadde-7bf4-4325-b353-ba168055f42a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;main-content&quot;]/div[@class=&quot;.container-fluid&quot;]/app-stats[1]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;status-header&quot;]/ul[1]/li[3]/span[@class=&quot;status-info&quot;]</value>
+      <webElementGuid>8ddca803-a0cc-4206-a377-2eafa6ced665</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App Version'])[1]/following::span[1]</value>
+      <webElementGuid>2edf57a3-d375-4e4c-932a-b1545b918a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Serial Number'])[1]/preceding::span[1]</value>
+      <webElementGuid>0d7df565-343e-4ef5-8d33-1d11e934e0f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='v2.4.1 (build: 403101b_13022023)']/parent::*</value>
+      <webElementGuid>1eef66cc-99cd-4809-b190-0251b71bd5c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span</value>
+      <webElementGuid>32e9a503-a2f3-49a5-b4f4-b3568655b802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'v2.4.1 (build: 403101b_13022023)' or . = 'v2.4.1 (build: 403101b_13022023)')]</value>
+      <webElementGuid>84a268c3-e2e7-46a5-91c4-4031f63a849c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

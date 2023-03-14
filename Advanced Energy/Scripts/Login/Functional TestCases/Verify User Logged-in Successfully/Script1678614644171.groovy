@@ -17,13 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//precondition
-WebUI.callTestCase(findTestCase('Test Cases/Login/Functional TestCases/ValidLogin'), null)
+String logoutBtn= 'Object Repository/EdgeUI/Sidebar Buttons/btnLogout'
 
-// Navigation
-WebUI.callTestCase(findTestCase('Test Cases/Gateway/Commons/Navigate to configScreen'), null)
+// Start the timer
+def startTime = System.currentTimeMillis()
 
-//Verify table exist
-String deleteAction = 'Object Repository/Gateway-Configuration/delete-action'
-WebUI.verifyElementVisible(findTestObject(deleteAction))
+// Wait for the next object to load, with a timeout of 5 seconds
+if (WebUI.waitForElementVisible(findTestObject(logoutBtn), 7)) {
+    // Stop the timer and calculate the elapsed time
+    def endTime = System.currentTimeMillis()
+    def elapsedTime = endTime - startTime
+    
+    // If the elapsed time is less than 5 seconds, the test case passes
+    if (elapsedTime < 5000) {
+        // Page loaded within 5 seconds, test case passed
+    } else {
+        // Page took more than 5 seconds to load, test case failed
+        KeywordUtil.markFailed('Page took more than 5 seconds to load')
+    }
+} else {
+    // Element did not become visible within 5 seconds, test case failed
+    throw new Exception('Element did not become visible within 5 seconds')
+}
 
+//Verify user Loggedin Successfully
+WebUI.verifyEqual(WebUI.getUrl(), GlobalVariable.Url+'edgeui/dashboard')
+WebUI.callTestCase(findTestCase('Test Cases/EdgeUI/Funtional TestCases/Stats/Get Stats Values'), null)

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_LastRestartedValue</name>
+   <tag></tag>
+   <elementGuidId>a3e8f2e2-4c08-49b2-aa41-2105744876e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.status-info</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Restarted'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9a89d816-1306-4c8a-b5e6-ed7d6aee43a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>status-info</value>
+      <webElementGuid>e5466c32-bb2c-4390-919e-381858ab46f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>09/03/2023 3:04:09 PM GMT+5</value>
+      <webElementGuid>db3c3615-eea9-4bb4-aaef-9d0db01a2e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;main-content&quot;]/div[@class=&quot;.container-fluid&quot;]/app-stats[1]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;status-header&quot;]/ul[1]/li[1]/span[@class=&quot;status-info&quot;]</value>
+      <webElementGuid>0aaffec9-42da-49a9-884a-5ca3180b5b2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Restarted'])[1]/following::span[1]</value>
+      <webElementGuid>bb1ea47e-e10d-41df-8bd8-b4b21efdb09c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OS Version'])[1]/preceding::span[1]</value>
+      <webElementGuid>714078c7-bd4d-4d55-91f6-d45b25d69e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='09/03/2023 3:04:09 PM GMT+5']/parent::*</value>
+      <webElementGuid>b28d7244-060f-4b19-9bd6-c66d22b6e0ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-stats/div/div/ul/li/span</value>
+      <webElementGuid>2620b845-bf21-40be-bfb5-b0150b952af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '09/03/2023 3:04:09 PM GMT+5' or . = '09/03/2023 3:04:09 PM GMT+5')]</value>
+      <webElementGuid>1ecfa8bf-4a20-4fe6-bc92-3986bbaf19d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
