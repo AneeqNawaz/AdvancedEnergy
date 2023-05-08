@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Add Adapter</name>
+   <tag></tag>
+   <elementGuidId>e799e68d-1584-4b30-9a33-acbf152ebacf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#modalAddRemoveAdapterConfiguration > div.modal-dialog > div.modal-content > div.modal-header > #exportModelLabel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h4[@id='exportModelLabel'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>626aa6a8-17f6-428b-9e01-7a967970e3e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-title</value>
+      <webElementGuid>ca6f1f04-5fcb-4f16-bdc5-3e2659406448</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>exportModelLabel</value>
+      <webElementGuid>0e02dafe-3678-428a-b46a-33b257642f61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Adapter</value>
+      <webElementGuid>388b3300-987e-4e5d-b245-39ccc532b5e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalAddRemoveAdapterConfiguration&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/h4[@id=&quot;exportModelLabel&quot;]</value>
+      <webElementGuid>f61d9d05-a8e8-4b38-beaf-cca5e97c74c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//h4[@id='exportModelLabel'])[2]</value>
+      <webElementGuid>0203fed9-a967-47a9-bdc6-3b0d3a815479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalAddRemoveAdapterConfiguration']/div/div/div/h4</value>
+      <webElementGuid>ce38523c-ac91-4acc-a5ad-7541dbf31b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::h4[1]</value>
+      <webElementGuid>bb961cd8-d5e3-4412-bb6d-74df664c8dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[2]/following::h4[1]</value>
+      <webElementGuid>60aae6b5-951e-43e8-a63f-31c7d1888e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Adapter'])[1]/preceding::h4[1]</value>
+      <webElementGuid>8811f627-4f24-495e-8835-9d028570864a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Device:'])[1]/preceding::h4[1]</value>
+      <webElementGuid>85bfa2bd-6e23-4e9d-9126-d661cbfadbd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Adapter']/parent::*</value>
+      <webElementGuid>dcd7d296-5612-41d6-9c14-6488220edbdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/h4</value>
+      <webElementGuid>3b1e7d8d-95f4-4429-8edc-d9f469fc59d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[@id = 'exportModelLabel' and (text() = 'Add Adapter' or . = 'Add Adapter')]</value>
+      <webElementGuid>5132c939-ab12-4b4c-9665-5bd25d102328</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

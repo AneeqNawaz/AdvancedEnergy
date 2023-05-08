@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Hold Captures for</name>
+   <tag></tag>
+   <elementGuidId>84bd20fe-8ba4-4494-90d9-788b3bcf06b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@class='custom-label'][contains(text(),'Hold Capture')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9ba0093c-a11e-4e07-b7b9-08d10317643b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-label</value>
+      <webElementGuid>bf1838fe-6676-4bc9-91cc-6977ac501fa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hold Captures for</value>
+      <webElementGuid>7332df08-22bc-4587-90f0-4468112c36b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ascentAP10EnableFastDaqConfigs_a1d86e5d-8c4a-45dc-adf0-c14327d819dc&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4&quot;]/div[@class=&quot;holder&quot;]/label[@class=&quot;custom-label&quot;]</value>
+      <webElementGuid>8e5a51dc-4d76-4a5d-9d0f-0a87078a4724</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -19,32 +19,29 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 String userName = 'Object Repository/Login Page/fieldUsername'
-
 String password = 'Object Repository/Login Page/fieldPassword'
-
 String ErrorMessages = 'Object Repository/Login Page/errorMessages'
 
-WebUI.callTestCase(findTestCase('Test Cases/Login/Lookups/Click on Login Button'), null)
+//****PRECONDITIONS****
+//Open Browser
+//WebUI.callTestCase(findTestCase('Test Cases/Browser/Open Browser'), null)
+
 
 //Verify if user clicks on login if both fields are empty
+WebUI.callTestCase(findTestCase('Test Cases/Login/Lookups/Click on Login Button'), null)
 WebUI.verifyElementVisible(findTestObject(ErrorMessages))
-
 WebUI.verifyEqual(WebUI.getText(findTestObject(ErrorMessages)), 'Please fill Username field')
 
-//Verify if user clicks on login if password field is empty
+//Verify if user clicks on login with empty Password field
 WebUI.sendKeys(findTestObject(userName), 'Test')
-
 WebUI.callTestCase(findTestCase('Test Cases/Login/Lookups/Click on Login Button'), null)
-
 WebUI.verifyElementVisible(findTestObject(ErrorMessages))
-
 WebUI.verifyEqual(WebUI.getText(findTestObject(ErrorMessages)), 'Please fill Password field')
 
-//Verify if user clicks on login if only password field is flled
+//Verify if user clicks on login with empty username field
 WebUI.clearText(findTestObject(userName))
 WebUI.sendKeys(findTestObject(password), 'Test')
 WebUI.callTestCase(findTestCase('Test Cases/Login/Lookups/Click on Login Button'), null)
-
 WebUI.verifyElementVisible(findTestObject(ErrorMessages))
 WebUI.verifyEqual(WebUI.getText(findTestObject(ErrorMessages)), 'Please fill Username field')
 

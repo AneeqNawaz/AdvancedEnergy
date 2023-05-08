@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Sampling Rate (Hz)</name>
+   <tag></tag>
+   <elementGuidId>46bdbb30-7d51-44ec-97e1-0250af570f61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@class='custom-label'][contains(text(),'Sampling Rate (Hz)')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>3defe223-bcf8-40e4-8738-8b13127a5802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-label</value>
+      <webElementGuid>5866da30-474a-43f9-8028-17f90e233188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sampling Rate (Hz)</value>
+      <webElementGuid>1dc173e3-f43f-4f9d-b44d-185b4a42d914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ascentAP10EnableFastDaqConfigs_a1d86e5d-8c4a-45dc-adf0-c14327d819dc&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4&quot;]/div[@class=&quot;holder&quot;]/label[@class=&quot;custom-label&quot;]</value>
+      <webElementGuid>58d2944e-378b-4e3a-adfa-7e8d0be97693</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

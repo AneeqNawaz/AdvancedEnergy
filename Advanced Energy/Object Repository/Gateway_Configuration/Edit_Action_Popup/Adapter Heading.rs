@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Adapter Heading</name>
+   <tag></tag>
+   <elementGuidId>5029c192-588f-44e4-b783-c412810986c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ascentAP10AdapterTypeName</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ascentAP10AdapterTypeName']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>57f1fbf4-ef97-41c4-97eb-d8664c9bf76b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>7e19f289-faef-42c3-b923-a8a2d36b1fdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ascentAP10AdapterTypeName</value>
+      <webElementGuid>ba4d5701-8d32-4ebe-a15e-3e52093d7e6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ascent AP 10 Adapter Configurations</value>
+      <webElementGuid>20cd2162-8676-4446-8f76-f5d03fb59b78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ascentAP10AdapterTypeName&quot;)</value>
+      <webElementGuid>9bc7de1b-0248-4049-b3ed-316a16287efa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ascentAP10AdapterTypeName']</value>
+      <webElementGuid>e0556aba-004a-4544-8d7b-c83a2c44a71f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headingOne']/h4/a</value>
+      <webElementGuid>e38db6f1-ad57-4aff-b6e7-c092edc7c3fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ascent AP 10 Adapter Configurations')]</value>
+      <webElementGuid>f64fc20a-9d24-4217-a0da-4a7ceab39bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last'])[1]/following::a[1]</value>
+      <webElementGuid>30773abf-1401-49d7-a77d-5c9f0b828289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::a[1]</value>
+      <webElementGuid>c9a9afbb-b7a2-4a13-ba7d-dcdb28b7632d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='a1d86e5d-8c4a-45dc-adf0-c14327d819dc'])[1]/preceding::a[2]</value>
+      <webElementGuid>079a57fa-1333-4ede-8635-2ac86fc4b0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AscentAP10'])[1]/preceding::a[2]</value>
+      <webElementGuid>527d7b7d-198c-4efb-af07-98d30bcd6f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ascent AP 10 Adapter Configurations']/parent::*</value>
+      <webElementGuid>7a18e02a-002d-40a1-bf90-1f20ec2791ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[13]</value>
+      <webElementGuid>edb1f945-3a5b-4dc4-8318-62ed35a9b1ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/a</value>
+      <webElementGuid>b46257a3-9824-4052-9bfb-1144a9de5856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and @id = 'ascentAP10AdapterTypeName' and (text() = 'Ascent AP 10 Adapter Configurations' or . = 'Ascent AP 10 Adapter Configurations')]</value>
+      <webElementGuid>57dd847b-85f5-42a6-9c12-fdb9823e1af1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

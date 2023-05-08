@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sampleRateIndex</name>
+   <tag></tag>
+   <elementGuidId>81821eea-d5a4-4b4b-87f2-8583a31bbf75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[contains(@id,'rfselect')]//span[@class='ui-selectmenu-text'])[${index}]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[contains(@id,'rfselect')]//span[@class='ui-selectmenu-text'])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[contains(@id,'rfselect')]//span[@class='ui-selectmenu-text'])[${index}]</value>
+      <webElementGuid>f3725012-bf8d-42f3-9e1b-6cd7b4172686</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

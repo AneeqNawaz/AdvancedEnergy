@@ -22,6 +22,21 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>''</initValue>
+      <name>LastRestarted</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>OSVersion</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
       <name>SerialNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>AppVersion</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

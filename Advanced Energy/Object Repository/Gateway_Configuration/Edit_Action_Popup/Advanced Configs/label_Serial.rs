@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Serial</name>
+   <tag></tag>
+   <elementGuidId>6f705b5a-f140-4013-9b14-486331fc751e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@class='mode-label'][contains(text(),'Serial')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5e623afd-077d-4791-81b9-c5e7091b5e68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mode-label</value>
+      <webElementGuid>a0d8ed38-6eb5-4fbd-a30f-6d9e04b30643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Serial</value>
+      <webElementGuid>a828a68c-c30d-4acd-a633-811fd86076c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CommSectionRadioBtnholder&quot;)/div[@class=&quot;holder col-lg-8&quot;]/div[@class=&quot;control custom checkbox&quot;]/label[@class=&quot;control--radio&quot;]/label[@class=&quot;mode-label&quot;]</value>
+      <webElementGuid>d6454e2f-b144-4aa6-bcc1-1b2730be1764</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

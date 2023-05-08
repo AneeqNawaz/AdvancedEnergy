@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Adapter Name</name>
+   <tag></tag>
+   <elementGuidId>848cac4e-cbdb-4d1f-a8b2-2e7870880d4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#eVoSHEAdapterName_7314fb17-bf21-4c1a-8ffd-bbd832677e5c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[contains(@name,'AdapterName_')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4ca79258-4ad4-423a-a2b4-a5409b0227fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>474a409d-92ef-4279-800d-805a9fe699d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control tooltipster uniqueAdapterName customAdaptersClass tooltipstered</value>
+      <webElementGuid>da429618-8d56-4590-bf09-bb2e24e7deae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>eVoSHEAdapterName_7314fb17-bf21-4c1a-8ffd-bbd832677e5c</value>
+      <webElementGuid>725ee48f-3baf-4a6d-98f7-1c20a5cbf149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>eVoSHEAdapterName_7314fb17-bf21-4c1a-8ffd-bbd832677e5c</value>
+      <webElementGuid>ecc6cddd-d8f9-4133-a069-a89b0b00c661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eVoSHEAdapterName_7314fb17-bf21-4c1a-8ffd-bbd832677e5c&quot;)</value>
+      <webElementGuid>f7cbdb8c-40f6-4e8b-8083-5738f3af13d0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

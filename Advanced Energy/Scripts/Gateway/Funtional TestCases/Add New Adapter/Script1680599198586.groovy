@@ -17,13 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//precondition
-WebUI.callTestCase(findTestCase('Test Cases/Login/Commons/ValidLogin'), null)
+String addAdapter = 'Object Repository/Gateway_Configuration/Tab_ActionsAndSearchBar/button_Add'
+String dropdownClick = "Object Repository/Gateway_Configuration/CreateAdapter_popUp/span_dropdownClick"
+String dropdownList = "Object Repository/Gateway_Configuration/CreateAdapter_popUp/adapter_dropdown_list"
+String btnOk = "Object Repository/Gateway_Configuration/CreateAdapter_popUp/btn_OK"
+String btnAddAdapter = "Object Repository/Gateway_Configuration/CreateAdapter_popUp/btnAddAdapter"
 
-// Navigation
-WebUI.callTestCase(findTestCase('Test Cases/Gateway/Commons/Navigate to configScreen'), null)
-
-//Verify table exist
-String deleteAction = 'Object Repository/Gateway-Configuration/delete-action'
-WebUI.verifyElementVisible(findTestObject(deleteAction))
-
+WebUI.click(findTestObject(addAdapter))
+WebUI.click(findTestObject(dropdownClick))
+WebUI.click(findTestObject(dropdownList))
+WebUI.click(findTestObject(btnAddAdapter))
+WebUI.click(findTestObject(btnOk))

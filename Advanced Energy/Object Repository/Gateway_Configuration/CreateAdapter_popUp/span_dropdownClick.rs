@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_dropdownClick</name>
+   <tag></tag>
+   <elementGuidId>6ebc4b2c-e5b8-4576-8d1d-1b24cb8b5bf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#adapterTypes-button > span.ui-selectmenu-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='adapterTypes-button']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>45a69423-bd36-48a4-9685-df4615e58b71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectmenu-text</value>
+      <webElementGuid>5537db80-77f2-4b4c-a8b9-56c595f8e068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Adam6017</value>
+      <webElementGuid>88370436-222c-4f62-95fa-d1845678e3cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adapterTypes-button&quot;)/span[@class=&quot;ui-selectmenu-text&quot;]</value>
+      <webElementGuid>85193e8a-1496-44e9-927e-1bdd537f45c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='adapterTypes-button']/span[2]</value>
+      <webElementGuid>3e1e9b78-07f9-483a-94df-5a82ca333a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Device:'])[1]/following::span[3]</value>
+      <webElementGuid>1d832f5c-8c68-42c2-ac6d-4c1bff4a04aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Adapter'])[1]/following::span[3]</value>
+      <webElementGuid>90c32996-a9b0-49ff-ace6-cd3cc2e3d809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/preceding::span[1]</value>
+      <webElementGuid>caa9a1cd-68bd-4a4d-9488-ad81b6f5f009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[3]/preceding::span[1]</value>
+      <webElementGuid>fc805c3d-c15a-4588-923d-3bc31afb951f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]/div/div/div/span/span[2]</value>
+      <webElementGuid>0d0f9419-8156-478b-8a71-33076117c9d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Adam6017' or . = 'Adam6017')]</value>
+      <webElementGuid>dedac486-29ac-4de9-b934-c551b42fe7b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

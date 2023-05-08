@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>gateway_configurationScreen</name>
+   <name>Delete All Adapters</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f240aab0-7d35-44fc-ac4f-18212d3e4340</testCaseGuid>
+   <testCaseGuid>3914405e-4ff1-4919-8425-d1ddca557c99</testCaseGuid>
 </TestCaseEntity>

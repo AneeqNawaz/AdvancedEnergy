@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>1. Open Browser
+2. Maximize Window
+3. Navigate to Login Screen</description>
    <name>Open Browser</name>
-   <tag></tag>
+   <tag>Browser</tag>
    <comment></comment>
    <testCaseGuid>39d16004-4137-4958-bc8d-53d266d5a8d2</testCaseGuid>
 </TestCaseEntity>

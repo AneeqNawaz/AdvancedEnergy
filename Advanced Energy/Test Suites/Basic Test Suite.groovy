@@ -17,8 +17,9 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 
-import internal.GlobalVariable as GlobalVariable
+import internal.GlobalVariable
 
+import com.kms.katalon.core.annotation.AfterTestCase
 import com.kms.katalon.core.annotation.SetUp
 import com.kms.katalon.core.annotation.SetupTestCase
 import com.kms.katalon.core.annotation.TearDown
@@ -32,6 +33,10 @@ import com.kms.katalon.core.annotation.TearDownTestCase
  * Setup test suite environment.
  */
 @SetUp(skipped = true) // Please change skipped to be false to activate this method.
+def setUp() {
+	// Put your code here.
+}
+@AfterTestCase(skipped = false) // Please change skipped to be false to activate this method.
 def setUp() {
 	// Put your code here.
 }

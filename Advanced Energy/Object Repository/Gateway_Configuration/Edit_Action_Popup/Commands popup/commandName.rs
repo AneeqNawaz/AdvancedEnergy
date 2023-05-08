@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>commandName</name>
+   <tag></tag>
+   <elementGuidId>efb459ee-702d-4f18-9de8-4a53719279e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//label[@class='cmd-description'])[${index}]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//label[@class='cmd-description'])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//label[@class='cmd-description'])[${index}]</value>
+      <webElementGuid>94883aea-4efa-42b2-8f86-bc5e5255fbcd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

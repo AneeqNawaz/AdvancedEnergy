@@ -12,10 +12,17 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>8204c236-9596-438c-8f04-09cbee858791</testSuiteGuid>
    <testCaseLink>
-      <guid>53fe16a6-83f4-410a-9115-4bfccc4e974d</guid>
+      <guid>7d19d708-8455-4a67-a2df-c22f11167edf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Browser/Open Browser</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2f7cba33-1fd9-4e3b-bdcb-c50f6b1364c3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Functional TestCases/Verify fields are Mandatory</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -26,6 +33,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>e764e15c-aacb-41fe-b244-d35389f817c1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/EdgeUI/Commons/Navigate to StatsScreen</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>c0d8d1cc-497e-412e-9777-b7e5d1e7edb7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -33,17 +47,31 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>bb2e0afb-2dbc-4d8b-aac0-c72f644da8c0</guid>
+      <guid>171378c8-4b2c-4bab-88ac-c9877e5883fe</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/Login/Functional TestCases/Verify fields are Mandatory</testCaseId>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Gateway/Commons/Navigate to ConfigScreen</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>18b508a1-f860-4c90-96a2-420f82ca40ca</guid>
+      <guid>5df3e76d-aa2d-4ce9-896b-9ac5a6fad536</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/Login/Functional TestCases/Verify User Logged-in Successfully</testCaseId>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Gateway/Lookups/Verfiy About Info</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fbab4e5c-c577-42d1-bc42-1becdb02752c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Gateway/Funtional TestCases/Delete All Adapters</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2220ae04-844c-45cf-8a9d-e6af0954efaf</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Gateway/Funtional TestCases/Add New Adapter</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

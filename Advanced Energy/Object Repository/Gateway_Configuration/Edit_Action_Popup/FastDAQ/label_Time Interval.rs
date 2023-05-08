@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Time Interval</name>
+   <tag></tag>
+   <elementGuidId>293f09ec-6e45-45c7-b2aa-64df97a8e10e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@class='custom-label'][contains(text(),'Time Interval')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>752970d6-461c-4aa7-b4eb-5808f7abf386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-label</value>
+      <webElementGuid>9167e93f-38cc-4814-a7a8-c770ffc010d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Time Interval</value>
+      <webElementGuid>52649b55-122f-4348-8149-016373413f00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ascentAP10EnableFastDaqConfigs_a1d86e5d-8c4a-45dc-adf0-c14327d819dc&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4&quot;]/div[@class=&quot;holder&quot;]/label[@class=&quot;custom-label&quot;]</value>
+      <webElementGuid>63d191b0-3c3b-4fc5-8bfd-3cd55dd34b7a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

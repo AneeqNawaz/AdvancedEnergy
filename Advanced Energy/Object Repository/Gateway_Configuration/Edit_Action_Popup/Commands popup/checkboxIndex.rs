@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkboxIndex</name>
+   <tag></tag>
+   <elementGuidId>e5d5a76c-eb58-4566-91f2-b707f9d4ab84</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[contains(@id,'chk')]//following-sibling::div[@class='control__indicator'])[{$index}]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[contains(@id,'chk')]//following-sibling::div[@class='control__indicator'])[{$index}]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[contains(@id,'chk')]//following-sibling::div[@class='control__indicator'])[{$index}]</value>
+      <webElementGuid>ef63b71a-31d3-4466-9abc-b40e601fbf2f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

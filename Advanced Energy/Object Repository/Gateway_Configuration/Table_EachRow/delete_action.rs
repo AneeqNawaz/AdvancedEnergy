@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>delete_action</name>
+   <tag></tag>
+   <elementGuidId>9ed1f005-1e54-493d-881f-62bd26ed0f7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.icon-trashcan.btnAddRemoveCancel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@aria-colindex=&quot;6&quot;]//a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f6aec9e4-3252-4764-abef-b461645c711a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>01c24010-327a-4926-ba6d-2a1e7ea96515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-trashcan btnAddRemoveCancel</value>
+      <webElementGuid>8b60e8c3-44be-4ec9-8407-e8473cf5e0ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-adapter-id</name>
+      <type>Main</type>
+      <value>open_a1fe7dd9-8721-4dba-aae6-985cc346795f</value>
+      <webElementGuid>f6dbc4d6-b1d2-41bf-be14-7b496bda2e40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>removeAdapter(&quot;a1fe7dd9-8721-4dba-aae6-985cc346795f&quot;, &quot;Adam6017&quot;, &quot;Adam Adapter 1&quot;)</value>
+      <webElementGuid>6e963e97-502a-4a72-bef8-756037c73f3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myGrid&quot;)/div[@class=&quot;ag-root-wrapper ag-layout-normal ag-ltr ag-keyboard-focus&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-normal&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-normal&quot;]/div[@class=&quot;ag-body-viewport ag-layout-normal ag-row-no-animation&quot;]/div[@class=&quot;ag-center-cols-clipper&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row ag-row-even ag-row-level-0 ag-row-position-absolute ag-row-first ag-row-focus ag-row-hover&quot;]/div[@class=&quot;ag-cell ag-cell-not-inline-editing ag-cell-auto-height grid-cell-style ag-cell-value ag-cell-focus ag-column-hover&quot;]/span[1]/div[@class=&quot;action-holder&quot;]/a[@class=&quot;icon-trashcan btnAddRemoveCancel&quot;]</value>
+      <webElementGuid>2245ad31-574f-441b-b275-9e387c24bb71</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

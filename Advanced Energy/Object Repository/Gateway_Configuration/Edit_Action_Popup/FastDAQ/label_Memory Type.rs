@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Memory Type</name>
+   <tag></tag>
+   <elementGuidId>7ecd4ce5-2d7a-4ce5-9d4c-36c714e07b71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@class='custom-label'][contains(text(),'Memory Type')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a9f9116a-2cd7-488b-aa1b-c2ebf38774cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-label</value>
+      <webElementGuid>acc47260-83eb-468f-82aa-e527f81dd69f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Memory Type</value>
+      <webElementGuid>fcced6f3-ec99-49bc-a214-2f0b88a8cc86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ascentAP10EnableFastDaqConfigs_a1d86e5d-8c4a-45dc-adf0-c14327d819dc&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4&quot;]/div[@class=&quot;holder&quot;]/label[@class=&quot;custom-label&quot;]</value>
+      <webElementGuid>9cbff660-22d0-46fb-bf63-e61a95401b16</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

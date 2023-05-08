@@ -19,13 +19,13 @@ import groovy.json.StringEscapeUtils as StringEscapeUtils
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+
 //****PRECONDITIONS****
+//Open Browser
 WebUI.callTestCase(findTestCase('Test Cases/Browser/Open Browser'), null)
-
 //Verify login page opens
-WebUI.verifyEqual(WebUI.getWindowTitle(), 'Login - PowerInsight', FailureHandling.STOP_ON_FAILURE)
+//WebUI.verifyEqual(WebUI.getWindowTitle(), 'Login - PowerInsight', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Test Cases/Login/Functional TestCases/Verify fields are Mandatory'), null, FailureHandling.CONTINUE_ON_FAILURE)
 //Input Valid Data and Click on Login
 String userName = 'Object Repository/Login Page/fieldUsername'
 String password = 'Object Repository/Login Page/fieldPassword'
@@ -36,7 +36,9 @@ WebUI.sendKeys(findTestObject(password), GlobalVariable.password)
 WebUI.callTestCase(findTestCase('Test Cases/Login/Lookups/Click on Login Button'), null)
 
 //****POSTCONDITIONS****
-//WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
-//WebUI.callTestCase(findTestCase('Test Cases/Login/Functional TestCases/Verify User Logged-in Successfully'), null)
-//WebUI.callTestCase(findTestCase('Test Cases/EdgeUI/Funtional TestCases/Stats/Verify Stats Screen'), null)
+WebUI.callTestCase(findTestCase('Test Cases/Login/Functional TestCases/Verify User Logged-in Successfully'),null,FailureHandling.CONTINUE_ON_FAILURE)
 
+
+
+//adasd
+WebUI.callTestCase(findTestCase('Test Cases/Gateway/Adapter(s) Configuration/Ascent AP10'),null,FailureHandling.CONTINUE_ON_FAILURE)

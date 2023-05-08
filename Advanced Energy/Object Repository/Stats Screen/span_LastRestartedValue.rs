@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Restarted'])[1]/following::span[1]</value>
+         <value>//li[1]//span[@class=&quot;status-info&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9a89d816-1306-4c8a-b5e6-ed7d6aee43a4</webElementGuid>
+      <webElementGuid>ddd7faca-9c21-4dd0-961b-2db2ddc6ba0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>status-info</value>
-      <webElementGuid>e5466c32-bb2c-4390-919e-381858ab46f6</webElementGuid>
+      <webElementGuid>d1ec0711-e8d2-43ff-be37-662f567da20b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>09/03/2023 3:04:09 PM GMT+5</value>
-      <webElementGuid>db3c3615-eea9-4bb4-aaef-9d0db01a2e34</webElementGuid>
+      <webElementGuid>dc292f87-ffea-474e-b581-d169ea164592</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,46 +46,14 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;main-content&quot;]/div[@class=&quot;.container-fluid&quot;]/app-stats[1]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;status-header&quot;]/ul[1]/li[1]/span[@class=&quot;status-info&quot;]</value>
-      <webElementGuid>0aaffec9-42da-49a9-884a-5ca3180b5b2e</webElementGuid>
+      <webElementGuid>3f476688-7097-4a02-b63f-7e93c656ec73</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Restarted'])[1]/following::span[1]</value>
-      <webElementGuid>bb1ea47e-e10d-41df-8bd8-b4b21efdb09c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='OS Version'])[1]/preceding::span[1]</value>
-      <webElementGuid>714078c7-bd4d-4d55-91f6-d45b25d69e0d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='09/03/2023 3:04:09 PM GMT+5']/parent::*</value>
-      <webElementGuid>b28d7244-060f-4b19-9bd6-c66d22b6e0ed</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//app-stats/div/div/ul/li/span</value>
-      <webElementGuid>2620b845-bf21-40be-bfb5-b0150b952af9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = '09/03/2023 3:04:09 PM GMT+5' or . = '09/03/2023 3:04:09 PM GMT+5')]</value>
-      <webElementGuid>1ecfa8bf-4a20-4fe6-bc92-3986bbaf19d7</webElementGuid>
+      <value>//li[1]//span[@class=&quot;status-info&quot;]</value>
+      <webElementGuid>c13a555a-1abc-46ea-9d96-410b74141e0f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

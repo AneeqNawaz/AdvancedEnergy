@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Port</name>
+   <tag></tag>
+   <elementGuidId>98edca55-30db-4356-9a8f-c10d49561bf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#eVoSHEPortForNotSerial_7314fb17-bf21-4c1a-8ffd-bbd832677e5c > div.col-lg-4 > div.holder > label.custom-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@class='custom-label'][text()='Port'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>965ee121-d024-485f-9632-a3dfe6e7bf80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-label</value>
+      <webElementGuid>9fa88c8d-833a-4d15-b165-71c3c0216b74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Port</value>
+      <webElementGuid>b3f09d27-ee01-4010-ae9f-497331cae64e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eVoSHEPortForNotSerial_7314fb17-bf21-4c1a-8ffd-bbd832677e5c&quot;)/div[@class=&quot;col-lg-4&quot;]/div[@class=&quot;holder&quot;]/label[@class=&quot;custom-label&quot;]</value>
+      <webElementGuid>c1585fff-b254-42d1-8e26-0bac68847d28</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

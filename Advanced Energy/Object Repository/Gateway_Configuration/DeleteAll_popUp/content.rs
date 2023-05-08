@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>content</name>
+   <tag></tag>
+   <elementGuidId>752ebbe8-1fc9-41f2-a5e1-fd0234c2119a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#deleteAllConfirmationDialog > div.modal-dialog > div.modal-content > div.modal-body > div > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='deleteAllConfirmationDialog']/div/div/div[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a01d24ae-ea98-467e-8ba7-4d7f1aa72bd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Are you sure to delete all selected adapters?</value>
+      <webElementGuid>0a4abbc0-cfc5-4961-ab93-4ebfe231c196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;deleteAllConfirmationDialog&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/p[1]</value>
+      <webElementGuid>7638a9d7-73b8-410a-9f94-9c9c61951063</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='deleteAllConfirmationDialog']/div/div/div[2]/div/p</value>
+      <webElementGuid>07c8f7aa-dd8d-43c9-b585-468e6438ec12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Confirmation'])[1]/following::p[1]</value>
+      <webElementGuid>ea1fcb3e-a8f5-4247-b076-e7c43ffcf994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::p[1]</value>
+      <webElementGuid>0295e42e-3544-4849-b70c-83c50d354847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[2]/preceding::p[1]</value>
+      <webElementGuid>c11c6860-d236-457a-a78a-429f805c1993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/preceding::p[1]</value>
+      <webElementGuid>f0f1d4da-c45a-457a-8c28-786d9125fac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Are you sure to delete all selected adapters?']/parent::*</value>
+      <webElementGuid>5c72dc4d-386a-4f6d-b10c-72e7cea66e82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/p</value>
+      <webElementGuid>e1f53e24-f73f-49bd-9951-5bdeeb233704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Are you sure to delete all selected adapters?' or . = 'Are you sure to delete all selected adapters?')]</value>
+      <webElementGuid>a2e10261-0b94-4c96-b564-1e5c7be1f1be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

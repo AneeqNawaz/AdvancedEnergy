@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Serial Number'])[1]/following::span[1]</value>
+         <value>//li[4]//span[@class=&quot;status-info&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>26db194f-f300-4991-8b7f-60a5879d46d1</webElementGuid>
+      <webElementGuid>63390fc5-33da-4cb6-bdca-184094e0fdd0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>status-info</value>
-      <webElementGuid>06905bbe-8093-4cdb-94e7-94d596bdbafe</webElementGuid>
+      <webElementGuid>4af3aeac-c42c-4775-b25f-309824dd3c92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>1028812348</value>
-      <webElementGuid>1389dd7c-33cc-44f4-9fea-282af1e66c7d</webElementGuid>
+      <webElementGuid>7c2d84a0-aecb-42cc-91e2-2419957721c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,54 +45,14 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;main-content&quot;]/div[@class=&quot;.container-fluid&quot;]/app-stats[1]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;status-header&quot;]/ul[1]/li[4]/span[@class=&quot;status-info&quot;]</value>
-      <webElementGuid>e6a3a352-4149-4aef-98bf-5f73b4a811d4</webElementGuid>
+      <webElementGuid>25ff7e35-1b6d-4065-be55-0c0ce5f57632</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Serial Number'])[1]/following::span[1]</value>
-      <webElementGuid>c2ed003e-a7bb-43e7-91e5-2e2ea3fa9ffb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::span[1]</value>
-      <webElementGuid>0db6f025-3306-4921-9dcf-533cc276f59f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Raphaël 2.1.4'])[1]/preceding::span[1]</value>
-      <webElementGuid>fec857da-400e-4a83-91dd-b4703f6b0690</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='1028812348']/parent::*</value>
-      <webElementGuid>1f83a701-e76e-44e2-a773-84ace9acf0bf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li[4]/span</value>
-      <webElementGuid>790a57f9-69d9-467d-9336-c05c8e476ab6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = '1028812348' or . = '1028812348')]</value>
-      <webElementGuid>be710d6e-2c00-4d33-b9a5-c713d5f2f890</webElementGuid>
+      <value>//li[4]//span[@class=&quot;status-info&quot;]</value>
+      <webElementGuid>e84b26e4-3426-4bc6-bb02-971e968731f6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_TriggerType</name>
+   <tag></tag>
+   <elementGuidId>32875890-7b0c-4fed-b1e0-36f5bd3c3701</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@title='Select trigger source ']//span[@aria-labelledby=&quot;ui-id-504&quot;]//span[@class='ui-selectmenu-text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ascentAP10TriggerSource_a1d86e5d-8c4a-45dc-adf0-c14327d819dc-button > span.ui-selectmenu-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>334b0124-2332-4da7-ad8d-0bc72c754b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectmenu-text</value>
+      <webElementGuid>ba1852c8-a7fb-4e3d-8ba6-2ace42a05131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Micro Arc</value>
+      <webElementGuid>8ade2007-bfea-4022-af5b-c876ef362aec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ascentAP10TriggerSource_a1d86e5d-8c4a-45dc-adf0-c14327d819dc-button&quot;)/span[@class=&quot;ui-selectmenu-text&quot;]</value>
+      <webElementGuid>be21cd1c-490e-4ca3-8c52-5f21b521438f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

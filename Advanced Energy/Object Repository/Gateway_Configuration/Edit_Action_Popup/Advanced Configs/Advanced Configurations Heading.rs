@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Advanced Configurations Heading</name>
+   <tag></tag>
+   <elementGuidId>59bdc27f-6720-467a-aec5-503017b48cef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.collapsed</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headingTwo']/h4/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ed1aa2e5-494b-405d-96f9-983ea79b400f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapsed</value>
+      <webElementGuid>9a603b3f-6a48-463a-81ea-f716d21a28a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0d567782-0bec-40e9-9a6c-ef67a16463ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>b92efd56-8577-4af0-849a-bf076bee26b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-parent</name>
+      <type>Main</type>
+      <value>#accordion</value>
+      <webElementGuid>ff149a40-2d49-4e0d-92fc-165a9b765b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#collapseTwo</value>
+      <webElementGuid>5baf2bd0-e355-4729-a79b-0befa8089d4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9638ef4a-8793-4662-9b08-cca492f81ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>#collapseTwo</value>
+      <webElementGuid>746f19cb-d7d8-4c37-bc25-71ab94d2be42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Advanced Configurations
+                                </value>
+      <webElementGuid>53f3470c-d37d-44af-bdb5-dfb59471de26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;open_a1d86e5d-8c4a-45dc-adf0-c14327d819dc&quot;)/div[@class=&quot;dropdown-holder&quot;]/div[@id=&quot;accordion&quot;]/div[@class=&quot;panel panel-default ascentAP10AscentAP10AdvanceConfigPanel&quot;]/div[@id=&quot;headingTwo&quot;]/h4[@class=&quot;panel-title&quot;]/a[@class=&quot;collapsed&quot;]</value>
+      <webElementGuid>63d6c438-37bf-42b9-ba4f-91046777246d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headingTwo']/h4/a</value>
+      <webElementGuid>3f4b1aa7-5164-41c4-9885-5541e2069c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Advanced Configurations')]</value>
+      <webElementGuid>537cfa41-c41d-43fa-8500-c7f047ab3ddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hourly Capture Limit'])[1]/following::a[1]</value>
+      <webElementGuid>3f095e3d-59ea-48d6-b31f-aa218afbce6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sampling Rate (Hz)'])[1]/following::a[1]</value>
+      <webElementGuid>b5f1a3e7-a5f0-449b-a5b6-a8e8e84bd533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Communication Mode'])[1]/preceding::a[2]</value>
+      <webElementGuid>b5f508a0-9dde-4ad4-84c5-2cda66390899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Moxa NPort'])[1]/preceding::a[2]</value>
+      <webElementGuid>95dfdabc-07a4-461b-b9db-936157c3f01e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Advanced Configurations']/parent::*</value>
+      <webElementGuid>12424fe4-ea26-4c14-9441-e50e790d459e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#collapseTwo')]</value>
+      <webElementGuid>32def84b-1cb4-49bf-b7e1-473c3d8fa553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h4/a</value>
+      <webElementGuid>8c11cbcb-3778-41e6-93f8-cbed7826ac89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#collapseTwo' and (text() = '
+                                    Advanced Configurations
+                                ' or . = '
+                                    Advanced Configurations
+                                ')]</value>
+      <webElementGuid>001976ec-be44-42e0-9357-9863267ed12f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

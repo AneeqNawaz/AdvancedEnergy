@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Ethernet</name>
+   <tag></tag>
+   <elementGuidId>6d7b6287-b47f-464a-b747-05aea3906dd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@class='mode-label'][contains(text(),'Ethernet')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#eVoSHE-ae-modbus-section_7314fb17-bf21-4c1a-8ffd-bbd832677e5c > div.control.custom.checkbox > label.control--radio > label.mode-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1b78d45f-ca28-49ec-95d2-42cd4fc0910c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mode-label</value>
+      <webElementGuid>1ee1b8de-ea41-4c2c-96e4-8cbe7cb17253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ethernet</value>
+      <webElementGuid>ae82e2db-927e-4189-88ee-e7685265090d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eVoSHE-ae-modbus-section_7314fb17-bf21-4c1a-8ffd-bbd832677e5c&quot;)/div[@class=&quot;control custom checkbox&quot;]/label[@class=&quot;control--radio&quot;]/label[@class=&quot;mode-label&quot;]</value>
+      <webElementGuid>5589b9d1-470e-44f5-90bb-2649f9bd8ffc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

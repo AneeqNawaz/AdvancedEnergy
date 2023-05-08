@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='v2.4.1 (build: 403101b_13022023)'])[1]/following::strong[1]</value>
+         <value>//li[4]//strong</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>strong</value>
-      <webElementGuid>0c477f28-9b96-4e38-8bac-fce1a96e5659</webElementGuid>
+      <webElementGuid>131c2b60-8eab-49e3-ad7b-2fe82bae187a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Serial Number</value>
-      <webElementGuid>018e1e19-8371-4d07-95f7-0e418083629f</webElementGuid>
+      <webElementGuid>e5719dc1-bb6c-4bbf-a13a-a8dcd421bb85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,54 +37,14 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;main-content&quot;]/div[@class=&quot;.container-fluid&quot;]/app-stats[1]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;status-header&quot;]/ul[1]/li[4]/strong[1]</value>
-      <webElementGuid>59cb419d-1c01-488b-98cc-05acf7f3cc65</webElementGuid>
+      <webElementGuid>853fb358-06c7-4bea-8062-34ec781bc625</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='v2.4.1 (build: 403101b_13022023)'])[1]/following::strong[1]</value>
-      <webElementGuid>970a31ae-17fc-4efa-86fb-c794f34bff62</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::strong[1]</value>
-      <webElementGuid>8cf53467-58f2-40a3-9cf2-557385036b93</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Raphaël 2.1.4'])[1]/preceding::strong[2]</value>
-      <webElementGuid>c6476573-088f-4ec4-b30c-060b9be982a2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Serial Number']/parent::*</value>
-      <webElementGuid>ae9c9e67-6e82-4bf8-a45f-43147ee6fd54</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li[4]/strong</value>
-      <webElementGuid>ade68f19-7b9a-4836-9442-bbb078a273da</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//strong[(text() = 'Serial Number' or . = 'Serial Number')]</value>
-      <webElementGuid>438efee0-28ff-404c-afc5-2c9dfb9caa1c</webElementGuid>
+      <value>//li[4]//strong</value>
+      <webElementGuid>a8dcc437-251a-4289-893e-5c2df29a3303</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

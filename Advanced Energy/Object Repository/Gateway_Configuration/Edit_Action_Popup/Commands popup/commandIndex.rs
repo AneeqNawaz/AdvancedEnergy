@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>commandIndex</name>
+   <tag></tag>
+   <elementGuidId>4803da77-d250-48ca-9f56-483e4bec653e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='control__indicator']//following-sibling::label[contains(@id,'lbl_')])[${index}]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class='control__indicator']//following-sibling::label[contains(@id,'lbl_')])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class='control__indicator']//following-sibling::label[contains(@id,'lbl_')])[${index}]</value>
+      <webElementGuid>3170d490-4c0c-48c5-8200-5089bd21bfca</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fastDAQ Heading</name>
+   <tag></tag>
+   <elementGuidId>a4951c7b-6efa-4f9d-a048-feafd60bb549</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.heading-label > strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ascentAP10EnableFastDaqConfigs_a1d86e5d-8c4a-45dc-adf0-c14327d819dc']/div[2]/div/div/label/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>41c9c3ea-6da0-4723-bfb3-9f6f406028e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FASTDAQ Configurations</value>
+      <webElementGuid>a275a78a-bc22-4c34-9ac1-f30e764b235b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ascentAP10EnableFastDaqConfigs_a1d86e5d-8c4a-45dc-adf0-c14327d819dc&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5&quot;]/div[@class=&quot;holder&quot;]/label[@class=&quot;heading-label&quot;]/strong[1]</value>
+      <webElementGuid>4885586b-e466-4342-bd16-5c6708994eb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ascentAP10EnableFastDaqConfigs_a1d86e5d-8c4a-45dc-adf0-c14327d819dc']/div[2]/div/div/label/strong</value>
+      <webElementGuid>38a6b1a2-cd8b-488a-908f-0d269527ce6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sampling Rate'])[1]/following::strong[1]</value>
+      <webElementGuid>b34c5119-98a5-4574-9610-b98d728e958e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable FastDAQ'])[1]/preceding::strong[1]</value>
+      <webElementGuid>1c0eb8be-445a-4040-82dd-ed4a2e6ffcd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hold Captures for'])[1]/preceding::strong[1]</value>
+      <webElementGuid>beda1996-aa1a-4c38-a4a4-93c72d337c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FASTDAQ Configurations']/parent::*</value>
+      <webElementGuid>011cee2e-1a55-4284-b4b4-ed53da56989b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/strong</value>
+      <webElementGuid>59f1928b-8212-42ab-a6c6-325a01504d29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'FASTDAQ Configurations' or . = 'FASTDAQ Configurations')]</value>
+      <webElementGuid>3df12247-5288-4c90-8139-6b46778845de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

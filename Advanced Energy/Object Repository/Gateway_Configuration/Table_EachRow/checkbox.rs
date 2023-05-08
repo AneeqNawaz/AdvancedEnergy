@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox</name>
+   <tag></tag>
+   <elementGuidId>22c19b3f-351a-4cae-aa52-902b1efe9e90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@aria-colindex=&quot;1&quot; and @role=&quot;gridcell&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>65c4740b-5ee9-4eca-8c95-95c5308908fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control__indicator</value>
+      <webElementGuid>11f26660-ce2d-4060-b38a-da47e39a4590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myGrid&quot;)/div[@class=&quot;ag-root-wrapper ag-layout-normal ag-ltr ag-keyboard-focus&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-normal&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-normal&quot;]/div[@class=&quot;ag-body-viewport ag-layout-normal ag-row-no-animation ag-has-focus&quot;]/div[@class=&quot;ag-center-cols-clipper&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row ag-row-even ag-row-level-0 ag-row-position-absolute ag-row-first ag-row-hover ag-row-focus&quot;]/div[@class=&quot;ag-cell ag-cell-not-inline-editing ag-cell-auto-height grid-cell-style ag-cell-value ag-column-hover ag-cell-focus&quot;]/span[1]/div[@class=&quot;holder data-adapter-id=&quot;]/div[@class=&quot;control custom checkbox&quot;]/label[@class=&quot;control--checkbox&quot;]/div[@class=&quot;control__indicator&quot;]</value>
+      <webElementGuid>184abcf3-485f-402d-ab46-86394b9ac997</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

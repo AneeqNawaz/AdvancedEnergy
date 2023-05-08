@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubuntu 18.04 LTS'])[1]/following::strong[1]</value>
+         <value>//li[3]//strong</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>strong</value>
-      <webElementGuid>4c3ec0bf-fcfd-40e6-9615-cce3bef39bf2</webElementGuid>
+      <webElementGuid>d31f995d-64c7-4fbe-a179-a1e9883128dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>App Version</value>
-      <webElementGuid>2300c57c-312c-4d60-ae49-382bf58294f4</webElementGuid>
+      <webElementGuid>e718a942-58d4-4bc6-8293-3af0c65b8af9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,46 +37,14 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;main-content&quot;]/div[@class=&quot;.container-fluid&quot;]/app-stats[1]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;status-header&quot;]/ul[1]/li[3]/strong[1]</value>
-      <webElementGuid>684c2b30-f73e-403e-94fa-39906b2b4e1e</webElementGuid>
+      <webElementGuid>1f4e60a0-214e-4d32-b9d9-44a5f9fac76a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubuntu 18.04 LTS'])[1]/following::strong[1]</value>
-      <webElementGuid>cf6c9eec-e3ac-4676-85ac-af996c17afcb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='v2.4.1 (build: 403101b_13022023)'])[1]/preceding::strong[1]</value>
-      <webElementGuid>06ce55bf-2463-4e31-96fe-f1f8473e9faa</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='App Version']/parent::*</value>
-      <webElementGuid>96af5da1-8d47-4791-88a8-9c98801cdb04</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li[3]/strong</value>
-      <webElementGuid>7b269a23-699a-4968-b135-4ac97b855254</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//strong[(text() = 'App Version' or . = 'App Version')]</value>
-      <webElementGuid>b3f7f868-d079-45c4-a50d-c1c8340cd4ee</webElementGuid>
+      <value>//li[3]//strong</value>
+      <webElementGuid>dc672d9c-0025-435c-8211-d89c6477286a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
